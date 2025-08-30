@@ -1,6 +1,6 @@
 # 🌙 Yume Software
 
-Dois amigos desenvolvendo softwares robustos e escaláveis :)
+Dois amiguinhos desenvolvendo softwares robustos e escaláveis :)
 
 ## 🚀 Sobre nós
 Somos desenvolvedores apaixonados por tecnologia, criando aplicações modernas, eficientes e escaláveis.  
